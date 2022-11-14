@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">
   CMU Cloud Lab
-</h1>
+    </h1>
 </p>
 <p align="center">
   <a href="https://www.cmu.edu/mcs">
