@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://cloudlab.cmu.edu">
-    ![Alt text](/images/logo_CL.png?raw=true "Optional Title")
-
+<img alt="CMU Cloud Lab" src="images/logo_CL.png" width=200px />
   </a>
   <h1 align="center">
   CMU Cloud Lab
