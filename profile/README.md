@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.budibase.com">
-    <img alt="Budibase" src="https://d33wubrfki0l68.cloudfront.net/aac32159d7207b5085e74a7ef67afbb7027786c5/2b1fd/img/logo/bb-emblem.svg" width="60" />
+  <a href="https://cloudlab.cmu.edu">
+    <img alt="CMU Cloud Lab" src="images/hero_cl-branded-1024x512.jpeg" />
   </a>
 </p>
 <h1 align="center">
-  Budibase
+  CMU Cloud Lab
 </h1>
 
 <h3 align="center">
