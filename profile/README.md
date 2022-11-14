@@ -1,23 +1,34 @@
 <p align="center">
   <a href="https://cloudlab.cmu.edu">
-    <img alt="CMU Cloud Lab" src="images/hero_cl-branded-1024x512.jpeg" />
+    <img alt="CMU Mellon College of Science" src="images/logo_CL.png" width=200px />
   </a>
-</p>
-<h1 align="center">
+  <h1 align="center">
   CMU Cloud Lab
 </h1>
+</p>
+<p align="center">
+  <a href="https://www.cmu.edu/mcs">
+    <img alt="CMU Mellon College of Science" src="images/logo_mcs_square.jpeg" width=100px />
+  </a>
+  
+  <a href="https://www.emeraldcloudlab.com">
+    <img alt="Emerald Cloud Lab" src="images/logo_ecl_square.jpeg"  width=100px/>
+  </a>
+</p>
+
 
 <h3 align="center">
   Bring your research to the next level.
 </h3>
 <p align="center">
   Based on a concept pioneered by two CMU alumni, their company Emerald Cloud Lab (ECL) is the world’s first Academic Cloud Lab that allows you to remotely control a complete life sciences laboratory from your computer.
+  
 </p>
+<p align="center"><a href="https://youtu.be/uJIiOc2-iiw" target="_blank">Video: Automated Science using the CMU Cloud Lab</a>
+  <p>
 
 
-<p align="center">
-  <a href="https://youtu.be/uJIiOc2-iiw" target="_blank"><img alt="Automated Science Video" src="images/Youtube%20screenshot.png"></a>
-</p>
+
 
 
 <h3 align="center">
@@ -33,49 +44,28 @@
   <span> · </span>
 </h3>
 
-<br /><br />
-
-## 🏁 Get started
-
-Deploy Budibase self-hosted in your existing infrastructure, using Docker, Kubernetes, and Digital Ocean.
-Or use Budibase Cloud if you don't need to self-host, and would like to get started quickly.
-
-### [Get started with self-hosting Budibase](https://docs.budibase.com/docs/hosting-methods)
-
-- [Docker - single ARM compatible image](https://docs.budibase.com/docs/docker)
-- [Docker Compose](https://docs.budibase.com/docs/docker-compose)
-- [Kubernetes](https://docs.budibase.com/docs/kubernetes-k8s)
-- [Digital Ocean](https://docs.budibase.com/docs/digitalocean)
-- [Portainer](https://docs.budibase.com/docs/portainer)
-
-
-### [Get started with Budibase Cloud](https://budibase.com)
-
-
-<br /><br />
-
-## 🎓 Learning Budibase
-
-The Budibase documentation [lives here](https://docs.budibase.com/docs).
 <br />
 
+## 🏛 Training
 
-<br /><br />
+While anyone is freely available to participate in our [Discussions](https://github.com/orgs/cloudlab-cmu/discussions), training is necessary in order to gain access to the CMU Cloud lab. You can review and select the training that best fits your needs here: <a href="https://cloudlab.cmu.edu/training/" target="_blank">Cloud Lab Training</a>
+
+<br />
 
 ## 💬 Community
 
 If you have a question or would like to talk with other CMU Cloud lab users and join our community, please hop over to [Github discussions](https://github.com/orgs/cloudlab-cmu/discussions)
 
-<br /><br /><br />
+You can also review, use and improve our [Public Protocols](https://github.com/cloudlab-cmu/Public-Protocols) for your own research projects, [Make a Feature Request](https://github.com/orgs/cloudlab-cmu/discussions/categories/feature-requests), or [Report a Bug](https://github.com/cloudlab-cmu/Public-Protocols/issues)
+
+<br />
 
 
 ## ❗ Code of conduct
 
 Budibase is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Budibase community to abide by our [**Code of Conduct**](docs/CODE_OF_CONDUCT.md). Please read it.
+
 <br />
-
-
-<br /><br />
 
 
 ## 🙌 Contributing to the CMU Cloud Lab
