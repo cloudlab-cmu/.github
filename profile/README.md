@@ -11,11 +11,11 @@
 </p>
 <p align="center">
   <a href="https://www.cmu.edu/mcs">
-    <img alt="CMU Mellon College of Science" src="images/logo_mcs_square.jpeg" width=100px />
+    <img alt="CMU Mellon College of Science" src="/profile/images/logo_mcs_square.jpeg" width=100px />
   </a>
   
   <a href="https://www.emeraldcloudlab.com">
-    <img alt="Emerald Cloud Lab" src="images/logo_ecl_square.jpeg"  width=100px/>
+    <img alt="Emerald Cloud Lab" src="/profile/images/logo_ecl_square.jpeg"  width=100px/>
   </a>
 </p>
 
@@ -60,6 +60,7 @@ Budibase is dedicated to providing a welcoming, diverse, and harrassment-free ex
 
 From opening a bug report to creating a pull request: every contribution is appreciated and welcomed. If you're planning to implement a new feature or change the API please create an issue first. This way we can ensure your work is not in vain.
 
+Would you like to sponsor us? [Your support of the Carnegie Mellon University Cloud lab](https://www.cmu.edu/future-of-science/cloud-lab/index.html) will give scientists and researchers the tools, resources and time to ask the right questions and design breakthrough experiments that lead to incredible advancements.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
