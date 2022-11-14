@@ -78,13 +78,9 @@ Budibase is dedicated to providing a welcoming, diverse, and harrassment-free ex
 <br /><br />
 
 
-## 🙌 Contributing to Budibase
+## 🙌 Contributing to the CMU Cloud Lab
 
 From opening a bug report to creating a pull request: every contribution is appreciated and welcomed. If you're planning to implement a new feature or change the API please create an issue first. This way we can ensure your work is not in vain.
-Environment setup instructions are available for [Debian](https://github.com/Budibase/budibase/tree/HEAD/docs/DEV-SETUP-DEBIAN.md) and [MacOSX](https://github.com/Budibase/budibase/tree/HEAD/docs/DEV-SETUP-MACOSX.md)
-
-### Not Sure Where to Start?
-A good place to start contributing, is the [First time issues project](https://github.com/Budibase/budibase/projects/22).
 
 
 <!-- markdownlint-restore -->
