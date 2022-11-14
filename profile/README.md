@@ -29,22 +29,7 @@
 
 
 
-
-
-<h3 align="center">
-  <a href="https://cloudlab.cmu.edu/training/">Get Trained to use the Cloud Lab</a>
-  <span> · </span>
-  <a href="https://github.com/orgs/cloudlab-cmu/discussions">Discuss and Support Cloud Lab Usage</a>
-  <span> · </span>
-  <a href="https://github.com/cloudlab-cmu/Public-Protocols">Review, Use, and Improve Cloud Lab Protocols</a>
-  <span> · </span>
-  <a href="https://github.com/orgs/cloudlab-cmu/discussions/categories/feature-requests">Feature request</a>
-  <span> · </span>
-  <a href="https://github.com/cloudlab-cmu/Public-Protocols/issues">Report a bug</a>
-  <span> · </span>
-</h3>
-
-<br />
+    
 
 ## 🏛 Training
 
