@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Budibase design ui" src="https://res.cloudinary.com/daog6scxm/image/upload/v1633524049/ui/design-ui-wide-mobile_gdaveq.jpg">
+  <a href="https://youtu.be/uJIiOc2-iiw" target="_blank"><img alt="Automated Science Video" src="images/Youtube%20screenshot.png"></a>
 </p>
 
 <p align="center">
