@@ -51,7 +51,7 @@ You can also review, use and improve our [Public Protocols](https://github.com/c
 
 ## ❗ Code of conduct
 
-Budibase is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Budibase community to abide by our [**Code of Conduct**](docs/CODE_OF_CONDUCT.md). Please read it.
+Budibase is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Budibase community to abide by our [**Code of Conduct**](/profile/docs/CODE_OF_CONDUCT.md). Please read it.
 
 <br />
 
