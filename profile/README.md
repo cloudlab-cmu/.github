@@ -53,9 +53,9 @@ You can also review, use and improve our [Public Protocols](https://github.com/c
 
 We are dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the CMU Cloud Lab community to abide by our [**Code of Conduct**](/profile/docs/CODE_OF_CONDUCT.md). Please read it.
 
-##IMPORTANT
+## ❗❗❗IMPORTANT ❗❗❗
 
-This is a place for discussions, questions, protocol sharing but not to share data without the owner/author consent.
+**This is a place for discussions, questions, protocol sharing but not to share data without the owner/author consent.**
 
 <br />
 
