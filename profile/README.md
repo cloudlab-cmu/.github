@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cloudlab.cmu.edu">
-    ![Alt text](images/logo_CL.png?raw=true "Optional Title")
+    ![Alt text](/images/logo_CL.png?raw=true "Optional Title")
 
   </a>
   <h1 align="center">
