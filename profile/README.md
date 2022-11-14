@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cloudlab.cmu.edu">
-    <img alt="CMU Mellon College of Science" src="images/logo_CL.png" width=200px />
+    <img alt="CMU Mellon College of Science" src="https://github.com/cloudlab-cmu/.github/edit/main/profile/images/logo_CL.png" width=200px />
   </a>
   <h1 align="center">
   CMU Cloud Lab
