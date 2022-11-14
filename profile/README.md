@@ -24,7 +24,7 @@
   Bring your research to the next level.
 </h3>
 <p align="center">
-  Based on a concept pioneered by two CMU alumni, their company Emerald Cloud Lab (ECL) is the world’s first Academic Cloud Lab that allows you to remotely control a complete life sciences laboratory from your computer.
+  Based on a concept pioneered by two CMU alumni through their company Emerald Cloud Lab (ECL), the CMU Cloud Lab is the world’s first Academic Cloud Lab that allows you to remotely control a complete life sciences and chemistry laboratory from your computer.
   
 </p>
 <p align="center"><a href="https://youtu.be/uJIiOc2-iiw" target="_blank">Video: Automated Science using the CMU Cloud Lab</a>
