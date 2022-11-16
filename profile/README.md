@@ -62,7 +62,7 @@ We are dedicated to providing a welcoming, diverse, and harrassment-free experie
 
 ## 🙌 Contributing to the CMU Cloud Lab
 
-From opening a bug report to creating a pull request: every contribution is appreciated and welcomed. If you're planning to implement a new feature or change the API please create an issue first. This way we can ensure your work is not in vain.
+From opening a bug report to creating a pull request: every contribution is appreciated and welcomed. If you're planning to implement a new feature or change a Protocol please create an issue first. This way we can ensure your work is not in vain.
 
 Would you like to sponsor us? [Your support of the Carnegie Mellon University Cloud lab](https://www.cmu.edu/future-of-science/cloud-lab/index.html) will give scientists and researchers the tools, resources and time to ask the right questions and design breakthrough experiments that lead to incredible advancements.
 
