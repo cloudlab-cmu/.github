@@ -9,22 +9,14 @@
   CMU Cloud Lab
     </h1>
 </p>
-<p align="center">
-  <a href="https://www.cmu.edu/mcs">
-    <img alt="CMU Mellon College of Science" src="/profile/images/logo_mcs_square.jpeg" width=100px />
-  </a>
-  
-  <a href="https://www.emeraldcloudlab.com">
-    <img alt="Emerald Cloud Lab" src="/profile/images/logo_ecl_square.jpeg"  width=100px/>
-  </a>
-</p>
+
 
 
 <h3 align="center">
   Bring your research to the next level.
 </h3>
 <p align="center">
-  Based on a concept pioneered by two CMU alumni through their company Emerald Cloud Lab (ECL), the CMU Cloud Lab is the world’s first Academic Cloud Lab that allows you to remotely control a complete life sciences and chemistry laboratory from your computer.
+  The CMU Cloud Lab is the world’s first academic Cloud Lab that allows you to remotely control a complete life sciences and chemistry laboratory from your computer.
   
 </p>
 <p align="center"><a href="https://youtu.be/uJIiOc2-iiw" target="_blank">Video: Automated Science using the CMU Cloud Lab</a>
